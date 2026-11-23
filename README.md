@@ -42,7 +42,7 @@ python main.py ..\data\example_02.jpg
 python tests\test_geometry.py
 ```
 
-本机开发环境为 Anaconda Python 3.11（`D:\Anaconda\Anaconda3\python.exe`），已装有全部依赖。
+本机开发环境为 Anaconda Python 3.11
 
 ## 目录结构
 
